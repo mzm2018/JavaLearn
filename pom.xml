@@ -5,7 +5,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>learn.java.com</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <modules>
         <module>java.section4</module>
         <module>java.section5</module>
@@ -62,7 +62,7 @@
         <connection>scm:git:git@github.com:mzm2018/JavaLearn.git</connection>
         <developerConnection>scm:git:git@github.com:mzm2018/JavaLearn.git</developerConnection>
         <url>git@github.com:mzm2018/JavaLearn.git</url>
-        <tag>v1.0.0</tag>
+        <tag>v1.0.1</tag>
     </scm>
 
 
