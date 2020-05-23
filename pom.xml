@@ -5,7 +5,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>learn.java.com</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <modules>
         <module>java.section4</module>
         <module>java.section5</module>
