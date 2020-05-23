@@ -1,6 +1,6 @@
 package statement.com;
 
-public class Main {
+public class demo {
     public static void main(String[] args) {
         int myVariable = 50;
         myVariable++;

@@ -2,7 +2,7 @@ package MegaByteConverter.exercise;
 
 import static MegaByteConverter.exercise.MegaBytesConverter.printMegaBytesAndKiloBytes;
 
-public class main {
+public class demo {
     public static void main(String[] args) {
 
         printMegaBytesAndKiloBytes(2500);

@@ -1,6 +1,6 @@
 package method.com;
 
-public class Main {
+public class demo {
     public static void main(String[] args) {
 
 int finalScore = calculateScore(true,800,5,100);

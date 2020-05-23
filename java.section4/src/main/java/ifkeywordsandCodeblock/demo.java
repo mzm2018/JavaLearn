@@ -1,6 +1,6 @@
-package ifKeywordsAndCodeBlock;
+package ifkeywordsandCodeblock;
 
-public class Main {
+public class demo {
     public static void main(String[] args) {
 
 

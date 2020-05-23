@@ -1,6 +1,6 @@
 package expression.com;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
 
         double kilometer = (100 * 1.609344);
